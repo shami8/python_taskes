@@ -14,6 +14,7 @@ if __name__ == '__main__':
         
         x.append([name, score])
   
+/*how to sort a nested list according to the second elements in subset
 f = sorted (list(set([r[1] for r in x])))
 sec= f[1]
 low=[]
