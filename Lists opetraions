@@ -14,7 +14,8 @@ be of the 7 types listed above. Iterate through each command in order and perfor
 
 
 
-Solution 
+Solution:
+
 if __name__ == '__main__':
     N = int(input())
 
